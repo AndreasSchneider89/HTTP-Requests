@@ -1,0 +1,31 @@
+{
+
+    "id": "4d23a67f-6ca7-45be-bbe9-5abef47f3000",
+
+    "method": "POST",
+
+    "url": "/end",
+
+    "timestamp": "2023-08-16T15:28:15.637126506+02:00",
+
+    "remote_addr": "::1",
+
+    "user_agent": "PostmanRuntime/7.32.3",
+
+    "content_type": "multipart/form-data",
+
+    "body_params": {
+
+        "HalloTest": "UniverseTest",
+
+        "HalloTest2": "UniverseTest2",
+
+        "HalloTest3": "UniverseTest3",
+
+        "HalloTest4": "UniverseTest4"
+
+    },
+
+    "link_to_file": ""
+
+}

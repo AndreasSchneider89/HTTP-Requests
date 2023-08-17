@@ -1,0 +1,21 @@
+{
+
+    "id": "fb7f4a16-82af-4095-912e-109f756cf8e8",
+
+    "method": "POST",
+
+    "url": "/end",
+
+    "timestamp": "2023-08-16T16:54:29.475031177+02:00",
+
+    "remote_addr": "::1",
+
+    "user_agent": "PostmanRuntime/7.32.3",
+
+    "content_type": "image/png",
+
+    "body_params": {},
+
+    "link_to_file": "http://localhost:8080/static/e6hUub.png"
+
+}
